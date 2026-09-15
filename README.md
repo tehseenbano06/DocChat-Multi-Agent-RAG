@@ -5,7 +5,6 @@ DocChat is a document question-answering system built using Retrieval-Augmented 
 ## Overview
 
 Unlike a basic RAG pipeline that directly generates an answer after retrieval, DocChat separates the process into multiple stages:
-
 ```text
 Documents
     |
